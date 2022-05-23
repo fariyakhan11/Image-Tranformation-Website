@@ -6,3 +6,6 @@ Install the following :
 1) Python in your system
 2) pip install flask
 3) pip install Pillow
+4) pip install torchvision
+5) pip install -U scikit-image
+6) pip install fastai
